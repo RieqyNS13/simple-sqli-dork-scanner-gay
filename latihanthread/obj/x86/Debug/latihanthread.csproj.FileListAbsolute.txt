@@ -1,8 +1,0 @@
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\bin\Debug\latihanthread.exe
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\bin\Debug\latihanthread.pdb
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\obj\x86\Debug\latihanthread.Form1.resources
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\obj\x86\Debug\latihanthread.Properties.Resources.resources
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\obj\x86\Debug\latihanthread.csproj.GenerateResource.Cache
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\obj\x86\Debug\latihanthread.exe
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\obj\x86\Debug\latihanthread.pdb
-D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\latihanthread\obj\x86\Debug\latihanthread.csprojResolveAssemblyReference.cache
