@@ -1,0 +1,7 @@
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\bin\Debug\regex.exe
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\bin\Debug\regex.pdb
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\obj\x86\Debug\regex.Form1.resources
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\obj\x86\Debug\regex.Properties.Resources.resources
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\obj\x86\Debug\regex.csproj.GenerateResource.Cache
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\obj\x86\Debug\regex.exe
+D:\RieqyNS13\C#.NET\simple sqli dork scanner gay\regex\obj\x86\Debug\regex.pdb

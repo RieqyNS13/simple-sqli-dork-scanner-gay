@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Obfuscar</id>
+    <version>2.0.2-beta2</version>
+    <title>Obfuscar</title>
+    <authors>Ryan Williams,  and other contributors.</authors>
+    <owners>Ryan Williams,  and other contributors.</owners>
+    <licenseUrl>https://obfuscar.codeplex.com/license</licenseUrl>
+    <projectUrl>https://obfuscar.codeplex.com/</projectUrl>
+    <iconUrl>http://lextudio.com/images/obfuscar32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Obfuscar is a basic obfuscator for .NET assemblies. It uses massive overloading to rename metadata in .NET assemblies (including the names of methods, properties, events, fields, types and namespaces) to a minimal set, distinguishable in most cases only by signature.</description>
+    <summary>Open source obfuscar for .NET and Mono.</summary>
+    <releaseNotes>Version 2.0.2 Beta
+* Fixed GitHub#47 F# compiler can now be obfuscated.
+* Fixed GitHub#55 Nested classes should honor parent type's obfuscation attribute.
+
+Version 2.0.1
+* Fixed CodePlex#12 BAML reader error.
+* Fixed CodePlex#13 Nested classes are obfuscated wrongly.
+* Fixed CodePlex#17 PCL library wrongly refers to .NET 4 mscorlib.
+* Fixed CodePlex#20 Environment variable support.
+* Fixed CodePlex#24 MarkedOnly option does not always work.
+
+Version 2.0.0
+The changes since last commit on Google Code include,
+* Merged all patches from RemObjects' fork.
+	** Unicode chars can be used as obfuscated names.
+	** Better dependency resolution.
+	** Various other small fixes.
+* Merged patches from @AngryAnt (Emil Johansen)'s fork
+	** Korean chars can be used as obfuscated names.
+	** New tags are introduced (I could not yet verify every one, as there is no corresponding unit test cases).
+* Add an option to automatic exclude of public types and members so that public API is kept.
+* Add an option to automatic include all non-public types and members so that private API is obfuscated.
+* Add Force* rules to supplement Skip* rules.
+* Various bug fixes.</releaseNotes>
+    <copyright>(C) 2007-2014 Ryan Williams and other contributors.</copyright>
+    <language>en-US</language>
+    <tags>obfuscation obfuscator open source</tags>
+  </metadata>
+</package>
